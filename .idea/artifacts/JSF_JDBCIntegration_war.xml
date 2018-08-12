@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="JSF_JDBCIntegration:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="JSF_JDBCIntegration-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="JSF_JDBCIntegration:war exploded" />
+    </root>
+  </artifact>
+</component>
